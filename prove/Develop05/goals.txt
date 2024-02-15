@@ -1,0 +1,1 @@
+Name: exercise, Description: Work out 3 times a week, Points: 10, [1/3] exercise - Work out 3 times a week, Bonus: 50
